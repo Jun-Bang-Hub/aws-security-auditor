@@ -21,3 +21,6 @@ Instead of checking the console manually, I used **Python and Boto3** to quickly
 User 'Hyojun': MFA DISABLED (High Risk)
 === Audit Completed ===
 ```
+#### **Security Note**
+After completing the tests and documenting the results, I **deleted the IAM user and deactivated the access keys** used for this project. This was done to follow security best practices and ensure no active credentials are left exposed.
+<img width="2869" height="1397" alt="image" src="https://github.com/user-attachments/assets/3ee1697a-55d9-4910-ad4c-fc9aff29999e" />
